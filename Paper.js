@@ -4,7 +4,7 @@ class Paper {
             var options={
                 friction:0.5,
                 isStatic:false,
-                restitution:0.8,
+                restitution:0.3,
                 density:1.2
              } 
     this.body = Bodies.rectangle(x, y, width, height, options); 

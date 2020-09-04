@@ -14,9 +14,9 @@ function setup(){
     world = engine.world;
     paper = new Paper(80,200,50,50)
     ground = new Ground(400,380,900,20)
-    dustbinObj1 = new Dustbin(595,300,20,140)
-    dustbinObj2 = new Dustbin(655,362,100,18)
-    dustbinObj3 = new Dustbin(715,300,20,140)
+    dustbinObj1 = new Dustbin(595,320,20,140)
+    dustbinObj2 = new Dustbin(655,380,100,18)
+    dustbinObj3 = new Dustbin(715,320,20,140)
    
 }
 
